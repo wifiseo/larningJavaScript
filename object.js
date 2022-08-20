@@ -12,3 +12,5 @@ const smaller = student.filter(x => x.id < 40 );
 console.log("the all id is", idS);
 console.log(nameS);
 console.log(smaller);
+
+console.log("hello world")
